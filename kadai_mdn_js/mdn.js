@@ -1,4 +1,4 @@
 const dateControl = document.querySelector('input[type="date"]');
-dateControl.value = "2017-06-01";
+dateControl.value = "2026-06-30";
 console.log(dateControl.value); 
 console.log(dateControl.valueAsNumber); 
